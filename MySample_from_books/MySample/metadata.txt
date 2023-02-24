@@ -1,0 +1,23 @@
+[general]
+name=MySample
+qgisMinimumVersion=3.0
+description=QGIS MySample Plugin
+version=1.0
+author=Tsubasa Moriguchi
+
+about=QGIS MySample Plugin
+
+tracker=https://github.com/dayjournal/qgis3plugin-starter/issues
+repository=https://github.com/dayjournal/qgis3plugin-starter
+
+tags=vector
+
+homepage=
+category=Vector
+icon=icon.png
+
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
