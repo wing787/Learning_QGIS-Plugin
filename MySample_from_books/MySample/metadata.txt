@@ -14,7 +14,6 @@ tags=vector
 
 homepage=
 category=Vector
-icon=icon.png
 
 # experimental flag
 experimental=False
