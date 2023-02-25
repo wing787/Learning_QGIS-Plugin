@@ -8,10 +8,14 @@ QGISプラグイン開発に向けた学習用リポジトリ。
 
 ## 参考資料
 
-https://dayjournal.booth.pm/items/1551028
+公式ドキュメント
+* https://docs.qgis.org/3.22/ja/docs/pyqgis_developer_cookbook/plugins/index.html
+
+書籍
+* https://dayjournal.booth.pm/items/1551028
 
 
 ## 作業メモ
 * 2/24 書籍にあるサンプルプラグインを構築してみる。
-* 2/26 先にQt DesignerでUIを構築してからでないと、順序的に難しい...Qt Designerで構築してみる。
-一旦このリポジトリのものは保留に...
+* 2/26 書籍では実例として構築済みのUIの.pyファイルも含んでいるが、公式の手順としてはUIをQt Designerで構築することになっているので公式ドキュメントの手順に従って進める。
+ディレクトリ構築も大幅に変える必要あり?
